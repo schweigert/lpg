@@ -1,7 +1,14 @@
-// CRIADO POR MARLON HENRY
-// E CHRISTOPHER RENKAVIESKI
-// REVISADO DIA 19/10/1015
-// CRIADO EM 2014.2
+///////////////////////////////
+// CRIADO POR MARLON HENRY   //
+// E CHRISTOPHER RENKAVIESKI //
+// REVISADO DIA 19/10/1015   //
+// CRIADO EM 2014.2          //
+///////////////////////////////
+
+/////////////////////////
+/// PROF GUILHERME K. ///
+/////////////////////////
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
